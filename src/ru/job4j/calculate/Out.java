@@ -18,7 +18,6 @@ public class Out {
         int second = 2;
         int onePlusTwo = first + second;
         System.out.println("1 + 2 = " + onePlusTwo);
-
     }
 
 }
